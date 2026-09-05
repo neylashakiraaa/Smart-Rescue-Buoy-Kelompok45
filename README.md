@@ -5,13 +5,13 @@ Repository resmi proyek **Smart Rescue Buoy Berbasis IoT dengan GPS Tracking dan
 ---
 
 ### Tim Kami (Kelompok 45)
-* **Dosen Pembimbing:** Dr. Faiz Husnayain, S.T., M.T., M.Sc., Ph.D.[cite: 1]
-* **Ketua:** Naira Raissa Hulaemi (2306156675)[cite: 1]
+* **Dosen Pembimbing:** Dr. Faiz Husnayain, S.T., M.T., M.Sc., Ph.D.
+* **Ketua:** Naira Raissa Hulaemi (2306156675)
 * **Anggota:**
-  * Hafizhah Azkah (2306247401)[cite: 1]
-  * Kayla Annisa (2306247515)[cite: 1]
-  * Feyza Hasna Shabrina (2306266691)[cite: 1]
-  * Neyla Shakira (2306250655)[cite: 1]
+  * Hafizhah Azkah (2306247401)
+  * Kayla Annisa (2306247515)
+  * Feyza Hasna Shabrina (2306266691)
+  * Neyla Shakira (2306250655)
 
 ---
 
